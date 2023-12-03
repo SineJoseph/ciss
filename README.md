@@ -1,6 +1,6 @@
 # ciss
 Welcome to the official website of Christian Integrated Secondary School-LAE
-# Christian Integrated Secondary School
+# Christian Integrated Secondary School-LAE
 
 ## About Us
 Christian Integrated Secondary School is dedicated to providing a holistic education that integrates Christian values with academic excellence. Our mission is to nurture students spiritually, academically, and socially, preparing them to be responsible and compassionate individuals.
