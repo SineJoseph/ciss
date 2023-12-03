@@ -7,11 +7,19 @@ Welcome to the official website of Christian Integrated Secondary School-LAE
 ## About Us
 Christian Integrated Secondary School is dedicated to providing a holistic education that integrates Christian values with academic excellence in giving second chance to those young who can not make it through their education. Our mission is to nurture students who spiritually, academically, and socially, preparing them to be responsible, honest and true citizens of this nation Papua New Guinea.
 
+
+## Motto 
+"The fear of the Lord is the beginning of knowledge." (Proverbs: 1.7)
+
 ## Mission and Vision
 
-Our Mission: [Insert your school's mission statement here.]
+Our Mission: 
 
-Our Vision: [Insert your school's vision statement here.]
+[Insert your school's mission statement here.]
+
+Our Vision: 
+
+[Insert your school's vision statement here.]
 ...
 
 ## Academic Programs
