@@ -20,7 +20,7 @@ For academics Perspective is still the same as the other schools throughtout the
 
 ## Admissions
 
-Admission for students is open for every individual who which to persue their secondary educations. There are requirements and criteria that will certify candidates to be admitted. For further informations about requirements and criteria please contact the administration for more.
+Admission for students is open for every individual who which to persue their secondary educations. There are requirements and criteria that will certify candidates to be admitted. For further informations about requirements and criteria please contact the administration.
 
 ...
 
