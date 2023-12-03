@@ -3,6 +3,7 @@ Welcome to the official website of Christian Integrated Secondary School-LAE
 
 # Christian Integrated Secondary School-LAE
 
+
 ## About Us
 Christian Integrated Secondary School is dedicated to providing a holistic education that integrates Christian values with academic excellence in giving second chance to those young who can not make it through their education. Our mission is to nurture students who spiritually, academically, and socially, preparing them to be responsible, honest and true citizens of this nation Papua New Guinea.
 
