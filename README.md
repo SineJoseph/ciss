@@ -12,7 +12,6 @@ Our Mission: [Insert your school's mission statement here.]
 Our Vision: [Insert your school's vision statement here.]
 ...
 
-
 ## Academic Programs
 
 This school is like other conventional Secondary Schools in Papua New Guinea. Where education system and formalities are same as the other secondary school in Papua New Guinea.
