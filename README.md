@@ -1,5 +1,5 @@
-# ciss
 Welcome to the official website of Christian Integrated Secondary School-LAE
+
 # Christian Integrated Secondary School-LAE
 
 ## About Us
