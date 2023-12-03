@@ -15,7 +15,8 @@ Our Vision: [Insert your school's vision statement here.]
 
 ## Academic Programs
 
-Describe the academic programs offered by your institution, including details about curriculum, subjects, and any unique aspects.
+This school is like other conventional Secondary Schools in Papua New Guinea. Where education system and formalities are same as the other secondary school in Papua New Guinea.
+For academics Perspective is still the same as the other schools throughtout the Papua New Guinea.
 
 ## Admissions
 
