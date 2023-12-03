@@ -10,8 +10,8 @@ Christian Integrated Secondary School is dedicated to providing a holistic educa
 Our Mission: [Insert your school's mission statement here.]
 
 Our Vision: [Insert your school's vision statement here.]
-
 ...
+
 
 ## Academic Programs
 
